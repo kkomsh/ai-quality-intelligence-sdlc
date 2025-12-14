@@ -1,12 +1,4 @@
-# 🎯 Yo[![LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kira_Komshilova-blue?logo=linkedin)](https://www.linkedin.com/in/kira-komshilova/)
-
-## 📖 About
-
-Quality Assurance isn't just about test planning and automation—it's a continuous process spanning from requirements to production maintenance. This repository provides prompts for **all stakeholders**: QA Engineers, Developers, Product Owners, and Release Managers.le](https://img.shields.io/badge/LinkedIn-Article-blue?logo=linkedin)](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)
-
-## 👤 Author
-
-**Kira Komshilova** — *Quality Intelligence Framework*de is Talking: Are You Listening?
+# 🎯 Your Code is Talking: Are You Listening?
 
 > **Introducing Quality Intelligence — The Playbook for Codebase-Driven QA in Every Phase**
 
@@ -16,7 +8,7 @@ A collection of AI prompts and real-world examples for enhancing QA processes th
 [![License: CC BY 4.0](https://img.shields.io/badge/Prompts-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Article-blue?logo=linkedin)](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)
 
-## � Author
+## 👤 Author
 
 **Kira Komshilova** — *Quality Intelligence Framework*
 
@@ -24,7 +16,7 @@ The "Quality Intelligence" approach—using codebase analysis as the primary sou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kira_Komshilova-blue?logo=linkedin)](https://www.linkedin.com/in/kira-komshilova/)
 
-## �📖 About
+## 📖 About
 
 Quality Assurance isn't just about test planning and automation—it's a continuous process spanning from requirements to production maintenance. This repository provides prompts for **all stakeholders**: QA Engineers, Developers, Product Owners, and Release Managers.
 
@@ -180,4 +172,3 @@ This repository uses a **dual license**:
 See [LICENSE](LICENSE) for full details.
 
 ---
-
