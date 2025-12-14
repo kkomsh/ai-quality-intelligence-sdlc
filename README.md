@@ -5,6 +5,7 @@
 A collection of AI prompts and real-world examples for enhancing QA processes throughout the entire SDLC. This project demonstrates how to use **codebase analysis** as the primary source of intelligence for all quality activities.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Article-blue?logo=linkedin)](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)
 
 ## 📖 About
 
@@ -28,27 +29,36 @@ ai-quality-intelligence-sdlc/
 │   │   ├── po-text-gap-analysis-prompt.md
 │   │   └── qa-testing-strategy-prompt.md
 │   └── results/
-│       └── [Example: Health Record Correction Wizard analysis]
+│       ├── Health_Record_Correction_Wizard_PO_Analysis_Codebase.md
+│       ├── Health_Record_Correction_Wizard_PO_Gaps_Analysis.md
+│       └── Health_Record_Correction_Wizard_QA_Testing_Strategy.md
 ├── 02-Development/
 │   ├── prompts/
 │   │   └── branch-quality-assessment-prompt.md
 │   └── results/
+│       └── HM-4521_Branch_Quality_Assessment.md
 ├── 03-Testing/
 │   ├── prompts/
 │   │   └── acceptance-test-cases-prompt.md
 │   └── results/
+│       ├── HM-4521_Acceptance_Test_Cases.md
+│       └── HM-4521_E2E_Test_Automation_Plan.md
 ├── 04-Release/
 │   ├── prompts/
 │   │   ├── release-notes-prompt.md
 │   │   └── release-risk-assessment-prompt.md
 │   └── results/
 │       ├── risk-assessments/
+│       │   └── Release_Version30_2_2025_Risk_Assessment_Analysis_HealthManagement.md
 │       └── release-notes/
+│           └── ReleaseNotes_Version30_2_2025_HealthManagement.md
 └── 05-Production/
     ├── prompts/
     │   └── root-cause-analysis-prompt.md
     └── results/
-        └── [Example: HM-49313 Root Cause Analysis]
+        ├── HM-49313-Root-Cause-Analysis-Report-ANONYMIZED.md
+        ├── HM-12345_131225-0030_Root_Cause_Analysis.md
+        └── HM-12345_131225-0030_E2E_Test_Recommendations.md
 ```
 
 ## 🔄 SDLC Phases & Prompts
@@ -57,14 +67,14 @@ ai-quality-intelligence-sdlc/
 |-------|--------|-------------|----------|
 | 📋 **Requirements** | `po-codebase-task-analysis-prompt.md` | PO | Analyze feature against codebase |
 | 📋 **Requirements** | `po-text-gap-analysis-prompt.md` | PO | Find gaps in text requirements |
-| � **Requirements** | `qa-testing-strategy-prompt.md` | QA | Generate testing strategy |
+| 📋 **Requirements** | `qa-testing-strategy-prompt.md` | QA | Generate testing strategy |
 | 💻 **Development** | `branch-quality-assessment-prompt.md` | Dev/QA | Assess PR quality & test coverage |
 | 🧪 **Testing** | `acceptance-test-cases-prompt.md` | QA | Generate acceptance test cases |
 | 🚀 **Release** | `release-risk-assessment-prompt.md` | RM | Assess release risks |
 | 🚀 **Release** | `release-notes-prompt.md` | RM | Generate release notes |
 | 🏥 **Production** | `root-cause-analysis-prompt.md` | All | Investigate production issues |
 
-## � Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 
@@ -133,8 +143,8 @@ ai-quality-intelligence-sdlc/
 
 ## 📚 Related Article
 
-This repository accompanies the article:  
-**"Your Code is Talking: Are You Listening? Introducing Quality Intelligence"**
+This repository accompanies the LinkedIn article:  
+**["Your Code is Talking: Are You Listening? Introducing Quality Intelligence"](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)**
 
 The article explores how AI can help QA engineers inject quality intelligence across all SDLC phases—not just test planning and automation, but from requirements definition through production maintenance.
 
