@@ -1,13 +1,30 @@
-# 🎯 Your Code is Talking: Are You Listening?
+# 🎯 Yo[![LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kira_Komshilova-blue?logo=linkedin)](https://www.linkedin.com/in/kira-komshilova/)
+
+## 📖 About
+
+Quality Assurance isn't just about test planning and automation—it's a continuous process spanning from requirements to production maintenance. This repository provides prompts for **all stakeholders**: QA Engineers, Developers, Product Owners, and Release Managers.le](https://img.shields.io/badge/LinkedIn-Article-blue?logo=linkedin)](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)
+
+## 👤 Author
+
+**Kira Komshilova** — *Quality Intelligence Framework*de is Talking: Are You Listening?
 
 > **Introducing Quality Intelligence — The Playbook for Codebase-Driven QA in Every Phase**
 
 A collection of AI prompts and real-world examples for enhancing QA processes throughout the entire SDLC. This project demonstrates how to use **codebase analysis** as the primary source of intelligence for all quality activities.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/Prompts-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Article-blue?logo=linkedin)](https://www.linkedin.com/pulse/your-code-talking-you-listening-introducing-quality-komshilova-brfzf)
 
-## 📖 About
+## � Author
+
+**Kira Komshilova** — *Quality Intelligence Framework*
+
+The "Quality Intelligence" approach—using codebase analysis as the primary source for AI-driven QA across all SDLC phases—is an original framework developed by Kira Komshilova, based on 20+ years of experience in software development and testing.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kira_Komshilova-blue?logo=linkedin)](https://www.linkedin.com/in/kira-komshilova/)
+
+## �📖 About
 
 Quality Assurance isn't just about test planning and automation—it's a continuous process spanning from requirements to production maintenance. This repository provides prompts for **all stakeholders**: QA Engineers, Developers, Product Owners, and Release Managers.
 
@@ -148,16 +165,19 @@ This repository accompanies the LinkedIn article:
 
 The article explores how AI can help QA engineers inject quality intelligence across all SDLC phases—not just test planning and automation, but from requirements definition through production maintenance.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Add new prompts following the existing structure
-3. Include example outputs when possible
-4. Submit a pull request
-
 ## 📄 License
 
-[MIT License](LICENSE) — Feel free to use and adapt these prompts for your projects.
+This repository uses a **dual license**:
+
+| Content Type | License | Usage |
+|--------------|---------|-------|
+| **Code & Implementations** | MIT License | Free to use, modify, distribute |
+| **Prompts & Methodology** | CC BY 4.0 | Free to use with **attribution required** |
+
+**Attribution example:**
+> "Quality Intelligence" framework by Kira Komshilova, licensed under CC BY 4.0.
+
+See [LICENSE](LICENSE) for full details.
 
 ---
 
