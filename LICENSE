@@ -1,0 +1,62 @@
+# Dual License
+
+Copyright (c) 2025 Kira Komshilova
+
+This repository contains two types of content with different licenses:
+
+---
+
+## 📄 Code & Technical Implementations — MIT License
+
+**Applies to:** Code examples, test implementations, scripts, and technical configurations.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 📝 Methodology, Prompts & Articles — CC BY 4.0 License
+
+**Applies to:** AI prompts, the "Quality Intelligence" framework, methodology documentation, 
+example reports, and all written content describing the approach.
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+
+### You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+### Under the following terms:
+- **Attribution** — You must give appropriate credit to **Kira Komshilova** as the original 
+  author, provide a link to the license, and indicate if changes were made. You may do so 
+  in any reasonable manner, but not in any way that suggests the licensor endorses you or 
+  your use.
+
+### Attribution Example:
+> "Quality Intelligence" framework by Kira Komshilova, licensed under CC BY 4.0.
+> Original source: https://github.com/kkomsh/ai-quality-intelligence-sdlc
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+## 🧠 About Quality Intelligence
+
+The "Quality Intelligence" approach—using codebase analysis as the primary source for 
+AI-driven QA across all SDLC phases—is an original framework developed by **Kira Komshilova**, 
+based on 20+ years of experience in software development and testing.
